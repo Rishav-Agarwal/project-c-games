@@ -1,4 +1,4 @@
-<b>C++ GAMES</b>
+<b>C++ GAMES - By Himanshu Sharma</b>
 
 It has 4 games -
   1. Number Racing.
